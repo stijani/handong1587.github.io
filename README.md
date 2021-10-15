@@ -1,5 +1,5 @@
 
-**Comments by the original repo owner ...**
+## Comments by the original repo owner ...
 
 This github blog theme is forked from [zJiaJun](https://github.com/zJiaJun).
 
@@ -9,6 +9,6 @@ Feel free to send pull requests or open issues :-)
 
 
 
-**Comments by Saheed ...**
+## Comments by Saheed ...
 
 See computer vision data sets and others inside the `_post` directory
